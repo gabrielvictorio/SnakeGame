@@ -10,7 +10,7 @@ Clone from this repository and install Turtle if needed
 
 Linux
 ```
-> git clone git@github.com:
-> cd  ./snake_game
+> git clone git@github.com:gabrielvictorio/SnakeGame.git
+
 > python3 main.py
 ```
